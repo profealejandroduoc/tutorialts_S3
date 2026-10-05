@@ -16,5 +16,5 @@ otroarreglo.shift()
 console.log(otroarreglo);
 otroarreglo.unshift(5)
 console.log(otroarreglo);
-otroarreglo.splice(2,99)
-console.log(otroarreglo);
+// otroarreglo.splice(2,99)
+// console.log(otroarreglo);
